@@ -1,0 +1,4 @@
+What if we tried to process the output to generate a JSON resposne based on a specified schema.
+If we asked for how many functions are involved, it would give us 2 (Totally unexpected)
+and then based on this 2 we would do something twice instead of once.
+Like allocating a huge chunk of memory 2 times.
